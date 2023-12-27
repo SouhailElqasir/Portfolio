@@ -12,8 +12,6 @@ export const Bio = {
   description:
     "My name is Souhail Elqasir. I am 20 years old and I am a full-stack web developer. I recently graduated this year, which has strengthened my programming skills and my passion for creating innovative websites.",
   github: "https://github.com/SouhailElqasir",
-  resume:
-    "https://drive.google.com/file/d/1ffZrcMcn8UatXGIaautbbqpV7ADNaETA/view?usp=sharing",
   linkedin: "www.linkedin.com/in/elqasir-souhail-1678b0297",
   insta: "https://www.instagram.com/thrvsh97/",
   facebook: "https://www.facebook.com/souhail.el.127648",
@@ -168,7 +166,7 @@ export const projects = [
   {
     id: 0,
     title: "Portfolio",
-    date: "OCT 2023 - NOC 2023",
+    date: "OCT 2023 - NOV 2023",
     description:
       "Web portfolio site with ReactJs showcasing my skills with SVG animations (GSAP) and the use of EmailJs for contacting me, along with a page loading animation using React-Loaders.",
     image: 
