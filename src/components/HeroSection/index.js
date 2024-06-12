@@ -4,7 +4,7 @@ import { HeroContainer, HeroBg, HeroLeftContainer, Img, HeroRightContainer, Hero
 import souhailImg from '../../images/souhail.jpg'
 import Typewriter from 'typewriter-effect';
 import { Bio } from '../../data/constants';
-import CV from './SOUHAIL ELQASIR2.pdf';
+import CV from './CV.pdf';
 
 const HeroSection = () => {
   const openResume = () => {
